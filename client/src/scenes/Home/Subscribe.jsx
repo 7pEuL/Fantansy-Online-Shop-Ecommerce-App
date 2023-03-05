@@ -7,14 +7,14 @@ const Subscribe = () => {
 
   return (
     <Box width="80%" margin="80px auto" textAlign="center">
-      <IconButton sx={{ color: "skyblue" }}>
+      <IconButton sx={{ color: "greenyellow" }}>
         <MarkEmailReadOutlinedIcon fontSize="large" />
       </IconButton>
 
-      <Typography color="skyBlue" variant="h3">
+      <Typography color="greenyellow" variant="h3">
         Subscribe To Our Fancy Pigeons Gallery
       </Typography>
-      <Typography>
+      <Typography style={{ color: "white" }}>
         To see our Beautiful Photo Collection of Fancy Pigeons of Ethiopia for
         Free
       </Typography>
@@ -24,7 +24,9 @@ const Subscribe = () => {
         display="flex"
         alignItems="center"
         width="75%"
-        backgroundColor="#F2F2F2"
+        backgroundColor="#F2F2F230"
+        borderRadius="30px"
+        border="1px solid white"
       >
         <InputBase
           sx={{ ml: 1, flex: 1 }}
@@ -33,7 +35,13 @@ const Subscribe = () => {
           value={email}
         />
         <Divider sx={{ height: 28, m: 0.5 }} orientation="vertical" />
-        <Typography sx={{ p: "10px", ":hover": { cursor: "pointer" } }}>
+        <Typography
+          sx={{
+            p: "10px",
+            ":hover": { cursor: "pointer" },
+            color: "white",
+          }}
+        >
           Subscribe
         </Typography>
       </Box>

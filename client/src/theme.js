@@ -1,6 +1,17 @@
 import { createTheme } from "@mui/material/styles";
 
 export const shades = {
+  greenYellow: {
+      100: "#efffd5",
+      200: "#deffac",
+      300: "#ceff82",
+      400: "#bdff59",
+      500: "#adff2f",
+      600: "#8acc26",
+      700: "#68991c",
+      800: "#456613",
+      900: "#233309"
+},
   skyBlue: {
     100: "#e7f5fb",
     200: "#cfebf7",

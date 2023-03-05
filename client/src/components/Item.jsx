@@ -31,14 +31,24 @@ const Item = ({ item, width }) => {
 
   const [liked, setLiked] = useState(false);
 
+    // const [product, setProduct] = useState([]);
+
+    // fetch("/Product.json")
+    //   .then((response) => response.json())
+    //   .then((data) => {
+    //     console.log(data);
+    //     const Product = data;
+    //     setProduct(Product)
+    //     console.log(Product);
+    //   })
+    //   .catch((err) => console.error(err));
+
   const handleClick = () => {
     setLiked(!liked);
     if (liked) {
-      console.log("Button was unliked");
-      // perform some action
+      console.log("Button was unLiked");
     } else {
       console.log("Button was liked");
-      // perform some action
     }
   };
 

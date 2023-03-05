@@ -4,6 +4,7 @@ import { Box, Typography, useMediaQuery, Tabs, Tab } from "@mui/material";
 
 import { setItems } from "../../state";
 import Item from "../../components/Item";
+// import { useTheme } from "@emotion/react";
 
 const ShoppingList = () => {
   const dispatch = useDispatch();
@@ -18,6 +19,7 @@ const ShoppingList = () => {
 
   async function getItems() {
     const items = await fetch(
+      // "/Product.json",
       "http://localhost:1337/api/items?populate=image",
       { method: "GET" }
     );
@@ -41,11 +43,16 @@ const ShoppingList = () => {
 
   return (
     <Box width="80%" margin="80px auto">
-      <Typography color="skyBlue" variant="h3" textAlign="center">
+      <Typography
+        color="white"
+        style={{ textShadow: "1px 0px 0px greenyellow" }}
+        variant="h3"
+        textAlign="center"
+      >
         Ethiopian Fancy Pigeons
       </Typography>
       <Tabs
-        textColor="primary"
+        textColor="secondary"
         indicatorColor="primary"
         value={value}
         onChange={handleChange}
@@ -63,6 +70,7 @@ const ShoppingList = () => {
         <Tab label="BEST SELLERS" value="Best Sellers" />
         <Tab label="TOP RATED" value="Top Rated" />
       </Tabs>
+
       <Box
         margin="0 auto"
         display="grid"
@@ -70,6 +78,8 @@ const ShoppingList = () => {
         justifyContent="space-around"
         rowGap="20px"
         columnGap="1.33%"
+        color="black"
+        style={{ textShadow: "1px 0px 0px gray" }}
       >
         {value === "all" &&
           items.map((item) => (

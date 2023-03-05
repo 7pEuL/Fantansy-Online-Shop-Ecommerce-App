@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route, useLocation } from "react-router-dom";
 import Checkout from "./scenes/Checkout/Checkout";
 import Confirmation from "./scenes/Checkout/Confirmation";
 import CartMenu from "./scenes/Global/CartMenu";
-import FavoriteMenu from "./scenes/Global/FavoriteMenu"; // Work for Anther Day
+// import FavoriteMenu from "./scenes/Global/FavoriteMenu"; // Work for Anther Day
 import Footer from "./scenes/Global/Footer";
 import NavBar from "./scenes/Global/NavBar";
 import Home from "./scenes/Home/Home";

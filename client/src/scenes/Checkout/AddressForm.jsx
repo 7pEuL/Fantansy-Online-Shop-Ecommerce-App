@@ -27,6 +27,7 @@ const AddressForm = ({
 
   return (
     <Box
+      // backgroundColor='red'
       display="grid"
       gap="15px"
       gridTemplateColumns="repeat(4, minmax(0, 1fr))"
@@ -36,6 +37,7 @@ const AddressForm = ({
     >
       <TextField
         fullWidth
+        variant="filled"
         type="text"
         label="First Name"
         onBlur={handleBlur}
@@ -49,6 +51,7 @@ const AddressForm = ({
 
       <TextField
         fullWidth
+        variant="filled"
         type="text"
         label="Last Name"
         onBlur={handleBlur}
@@ -62,6 +65,7 @@ const AddressForm = ({
 
       <TextField
         fullWidth
+        variant="filled"
         type="text"
         label="Country"
         onBlur={handleBlur}
@@ -75,6 +79,7 @@ const AddressForm = ({
 
       <TextField
         fullWidth
+        variant="filled"
         type="text"
         label="Street Address"
         onBlur={handleBlur}
@@ -88,6 +93,7 @@ const AddressForm = ({
 
       <TextField
         fullWidth
+        variant="filled"
         type="text"
         label="Street Address 2 (optional)"
         onBlur={handleBlur}
@@ -101,6 +107,7 @@ const AddressForm = ({
 
       <TextField
         fullWidth
+        variant="filled"
         type="text"
         label="City"
         onBlur={handleBlur}
@@ -114,6 +121,7 @@ const AddressForm = ({
 
       <TextField
         fullWidth
+        variant="filled"
         type="text"
         label="State"
         onBlur={handleBlur}
@@ -127,6 +135,7 @@ const AddressForm = ({
 
       <TextField
         fullWidth
+        variant="filled"
         type="text"
         label="Zip Code"
         onBlur={handleBlur}

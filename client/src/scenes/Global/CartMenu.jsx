@@ -32,7 +32,7 @@ const CartMenu = () => {
   return (
     <Box // OVERLAY
       display={isCartOpen ? "block" : "none"}
-      backgroundColor="rgba(0, 0, 0, 0.4)"
+      backgroundColor="rgba(0, 0, 0, .3)"
       position="fixed"
       zIndex={10}
       width="100%"
@@ -47,12 +47,16 @@ const CartMenu = () => {
         bottom="0"
         width="max(400px, 30%)"
         height="100%"
-        backgroundColor="white"
+        backgroundColor="#f7ffc7"
       >
         <Box padding="30px" overflow="auto" height="100%">
           {/* HEADER */}
           <FlexBox mb="15px">
-            <Typography variant="h3" color={shades.skyBlue[500]}>
+            <Typography
+              variant="h3"
+              color={shades.skyBlue[700]}
+              style={{ textShadow: "1px 0px 0px skyBlue" }}
+            >
               SHOPPING BAG ({cart.length})
             </Typography>
 
@@ -75,10 +79,14 @@ const CartMenu = () => {
                       src={`http://localhost:1337${item?.attributes?.image?.data?.attributes?.formats?.medium?.url}`}
                     />
                   </Box>
-                  
+
                   <Box flex="1 1 60%">
                     <FlexBox mb="5px">
-                      <Typography fontWeight="bold" color={shades.skyBlue[400]}>
+                      <Typography
+                        fontWeight="bold"
+                        color={shades.skyBlue[400]}
+                        style={{ textShadow: "1px 0px 0px black" }}
+                      >
                         {item.attributes.name}
                       </Typography>
                       <IconButton
@@ -126,18 +134,23 @@ const CartMenu = () => {
           {/* ACTIONS */}
           <Box m="20px 0">
             <FlexBox m="20px 0">
-              <Typography fontWeight="bold" color={shades.skyBlue[500]}>
+              <Typography
+                fontWeight="bold"
+                color={shades.skyBlue[500]}
+                style={{ textShadow: "1px 0px 0px black" }}
+              >
                 SUBTOTAL
               </Typography>
               <Typography fontWeight="bold">${totalPrice}</Typography>
             </FlexBox>
             <Button
               sx={{
-                backgroundColor: shades.primary[400],
+                fontSize: "20px",
+                backgroundColor: shades.greenYellow[700],
                 color: "white",
-                borderRadius: 0,
+                borderRadius: "30px",
                 minWidth: "100%",
-                padding: "20px 40px",
+                padding: "10px 40px",
                 m: "20px 0",
               }}
               onClick={() => {

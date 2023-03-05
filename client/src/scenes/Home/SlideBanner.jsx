@@ -82,11 +82,16 @@ const SlideBanner = () => {
             margin={isNonMobile ? undefined : "0 auto"}
             maxWidth={isNonMobile ? undefined : "240px"}
           >
-            <Typography color={shades.skyBlue[200]}>NEW BREED</Typography>
-            <Typography variant="h1">Summer Sale</Typography>
+            <Typography color={shades.greenYellow[200]}>NEW BREED</Typography>
+            <Typography
+              variant="h1"
+              style={{ textShadow: "1px 0px 0px greenYellow" }}
+            >
+              Summer Sale
+            </Typography>
             <Typography
               fontWeight="bold"
-              color={shades.skyBlue[500]}
+              color={shades.greenYellow[500]}
               sx={{
                 "&:hover": { textDecoration: "underline", cursor: "pointer" },
               }}

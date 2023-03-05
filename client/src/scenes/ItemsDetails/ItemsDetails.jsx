@@ -9,7 +9,7 @@ import AddIcon from "@mui/icons-material/Add";
 import RemoveIcon from "@mui/icons-material/Remove";
 import { shades } from "../../theme";
 import { addToCart } from "../../state";
-import { addToWishlist } from "../../wishlists";
+// import { addToWishlist } from "../../wishlists";
 import { useDispatch } from "react-redux";
 
 const ItemsDetails = () => {
@@ -26,6 +26,7 @@ const ItemsDetails = () => {
 
   async function getItem() {
     const item = await fetch(
+      // `Product.json`,
       `http://localhost:1337/api/items/${itemId}?populate=image`,
       {
         method: "GET",
@@ -37,6 +38,7 @@ const ItemsDetails = () => {
 
   async function getItems() {
     const items = await fetch(
+      // `Product.json`,
       `http://localhost:1337/api/items?populate=image`,
       {
         method: "GET",
@@ -73,6 +75,7 @@ const ItemsDetails = () => {
             alt={item?.name}
             width="100%"
             height="100%"
+            // src={`Product.json${item?.attributes?.image?.data?.attributes?.formats?.medium?.url}`}
             src={`http://localhost:1337${item?.attributes?.image?.data?.attributes?.formats?.medium?.url}`}
             style={{ objectFit: "contain" }}
           />
@@ -81,16 +84,31 @@ const ItemsDetails = () => {
         {/* ACTIONS */}
         <Box flex="1 1 50%" mb="40px">
           <Box display="flex" justifyContent="space-between">
-            <Box>Home/Item</Box>
-            <Box>Prev Next</Box>
+            <Box color="black" style={{ textShadow: "1px 0px 0px gray" }}>
+              Home/Item
+            </Box>
+            <Box color="black" style={{ textShadow: "1px 0px 0px gray" }}>
+              Prev Next
+            </Box>
           </Box>
 
           <Box m="65px 0 25px 0">
-            <Typography variant="h3" color={shades.skyBlue[500]}>
+            <Typography
+              variant="h3"
+              color={shades.greenYellow[500]}
+              style={{ textShadow: "1px 0px 0px gray" }}
+            >
               {item?.attributes?.name}
             </Typography>
-            <Typography>${item?.attributes?.price}</Typography>
-            <Typography sx={{ mt: "20px" }}>
+
+            <Typography
+              color={shades.greenYellow[200]}
+              style={{ textShadow: "1px 0px 0px black" }}
+            >
+              ${item?.attributes?.price}
+            </Typography>
+
+            <Typography sx={{ mt: "20px" }} color={shades.greenYellow[500]}>
               {item?.attributes?.longDescription}
             </Typography>
           </Box>
@@ -143,21 +161,40 @@ const ItemsDetails = () => {
                 )}
               </IconButton>
 
-              <Typography sx={{ ml: "5px" }}>ADD TO WISHLIST</Typography>
+              <Typography sx={{ ml: "5px" }} color={shades.greenYellow[700]}>
+                ADD TO WISHLIST
+              </Typography>
             </Box>
-            <Typography>CATEGORIES: {item?.attributes?.category}</Typography>
+            <Typography
+              sx={{ ml: "39px" }}
+              color={shades.greenYellow[300]}
+              style={{ textShadow: "1px 0px 0px green" }}
+            >
+              CATEGORIES: {item?.attributes?.category}
+            </Typography>
           </Box>
         </Box>
       </Box>
 
       {/* INFORMATION */}
       <Box m="20px 0">
-        <Tabs value={value} onChange={handleChange}>
+        <Tabs
+          textColor="secondary"
+          indicatorColor="primary"
+          value={value}
+          onChange={handleChange}
+        >
           <Tab label="DESCRIPTION" value="description" />
           <Tab label="REVIEWS" value="reviews" />
         </Tabs>
       </Box>
-      <Box display="flex" flexWrap="wrap" gap="15px">
+      <Box
+        display="flex"
+        flexWrap="wrap"
+        gap="15px"
+        color="white"
+        // style={{ textShadow: "1px 0px 0px gray" }}
+      >
         {value === "description" && (
           <div>{item?.attributes?.LongDescription}</div>
         )}
@@ -166,7 +203,11 @@ const ItemsDetails = () => {
 
       {/* RELATED ITEMS */}
       <Box mt="50px" width="100%">
-        <Typography variant="h3" fontWeight="bold" color={shades.skyBlue[400]}>
+        <Typography
+          variant="h3"
+          fontWeight="bold"
+          color={shades.greenYellow[400]}
+        >
           Related Products
         </Typography>
         <Box
@@ -175,6 +216,8 @@ const ItemsDetails = () => {
           flexWrap="wrap"
           columnGap="1.33%"
           justifyContent="space-between"
+          color="black"
+          style={{ textShadow: "1px 0px 0px gray" }}
         >
           {items.slice(0, 4).map((item, i) => (
             <Item key={`${item.name}-${i}`} item={item} />

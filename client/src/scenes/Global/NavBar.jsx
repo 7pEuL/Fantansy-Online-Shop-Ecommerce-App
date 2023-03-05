@@ -26,8 +26,7 @@ const NavBar = () => {
       alignItems="center"
       width="100%"
       height="60px"
-      backgroundColor="rgb(0, 0, 0, 0.1)"
-      color="black"
+      backgroundColor="rgb(7, 7, 7, .5)"
       position="fixed"
       top="0"
       left="0"
@@ -47,7 +46,7 @@ const NavBar = () => {
           columnGap="20px"
           onClick={() => navigate("/")}
           sx={{ "&:hover": { cursor: "pointer" } }}
-          color={shades.skyBlue[500]}
+          color="greenYellow"
         >
           <img
             width="40px"
@@ -83,14 +82,14 @@ const NavBar = () => {
           zIndex="2"
         >
           <IconButton
-            sx={{ display: !isNonMobile ? "none" : "flex", color: "skyblue" }}
+            sx={{ display: !isNonMobile ? "none" : "flex", color: "greenYellow" }}
           >
             <SearchIcon />
           </IconButton>
 
           <IconButton
             onClick={() => dispatch(setIsWishlistOpen({}))}
-            sx={{ color: "skyblue" }}
+            sx={{ color: "greenYellow" }}
           >
             <FavoriteBorderOutlinedIcon />
           </IconButton>
@@ -102,7 +101,7 @@ const NavBar = () => {
             </IconButton>
           ) : (
             <Box borderColor={shades.black[100]}>
-              <IconButton sx={{ color: "skyblue" }}>
+              <IconButton sx={{ color: "greenYellow" }}>
                 <AccountCircleOutlinedIcon />
               </IconButton>
               {/* Sign in / Register */}
@@ -125,13 +124,13 @@ const NavBar = () => {
           >
             <IconButton
               onClick={() => dispatch(setIsCartOpen({}))}
-              sx={{ color: "skyblue" }}
+              sx={{ color: "greenYellow" }}
             >
               <WorkOutlineOutlinedIcon />
             </IconButton>
           </Badge>
 
-          <IconButton sx={{ color: "skyblue" }}>
+          <IconButton sx={{ color: "greenYellow" }}>
             <MenuIcon />
           </IconButton>
         </Box>

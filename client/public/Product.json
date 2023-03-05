@@ -1,0 +1,1923 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "attributes": {
+        "name": " Chinese Owl pigeon",
+        "ShortDescription": "The Chinese Owl is a breed of fancy pigeon developed over many years of selective breeding.",
+        "LongDescription": "The Chinese Owl is a breed of fancy pigeon developed over many years of selective breeding. Chinese Owls and other varieties of domesticated pigeons are all descendants of the rock pigeon (Columba livia). The breed is known for its small size and profuse frilled feathers. Many specimens of this breed have a 'chin-crest' around the frontal region of its neck - it does not extend around to the back of the head. The feathers are more 'ruffled and appear 'wind-swept' rather that 'curled' as in the frill varieties. The breed comes in many colors: black, brown (of many hues from near-rust to fawn), blue/ blue-grey, barred, ice, satinette blondinette (these last two possibly cross-breeds), white, pied, and white-black (combinations).",
+        "price": 300,
+        "category": "Top Rated",
+        "createdAt": "2023-02-09T02:34:29.559Z",
+        "updatedAt": "2023-02-11T22:26:44.292Z",
+        "publishedAt": "2023-02-09T02:34:44.579Z",
+        "image": {
+          "data": {
+            "id": 41,
+            "attributes": {
+              "name": "Fancy_Pigeon (19).jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 960,
+              "height": 1280,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_Fancy_Pigeon (19).jpg",
+                  "hash": "thumbnail_Fancy_Pigeon_19_4d76aeba85",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 117,
+                  "height": 156,
+                  "size": 8.99,
+                  "url": "/uploads/thumbnail_Fancy_Pigeon_19_4d76aeba85.jpg"
+                },
+                "small": {
+                  "name": "small_Fancy_Pigeon (19).jpg",
+                  "hash": "small_Fancy_Pigeon_19_4d76aeba85",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 375,
+                  "height": 500,
+                  "size": 77.33,
+                  "url": "/uploads/small_Fancy_Pigeon_19_4d76aeba85.jpg"
+                },
+                "medium": {
+                  "name": "medium_Fancy_Pigeon (19).jpg",
+                  "hash": "medium_Fancy_Pigeon_19_4d76aeba85",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 563,
+                  "height": 750,
+                  "size": 155.11,
+                  "url": "/uploads/medium_Fancy_Pigeon_19_4d76aeba85.jpg"
+                },
+                "large": {
+                  "name": "large_Fancy_Pigeon (19).jpg",
+                  "hash": "large_Fancy_Pigeon_19_4d76aeba85",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 1000,
+                  "size": 244.78,
+                  "url": "/uploads/large_Fancy_Pigeon_19_4d76aeba85.jpg"
+                }
+              },
+              "hash": "Fancy_Pigeon_19_4d76aeba85",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 359.45,
+              "url": "/uploads/Fancy_Pigeon_19_4d76aeba85.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-02-11T16:38:23.473Z",
+              "updatedAt": "2023-02-11T16:38:23.473Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2,
+      "attributes": {
+        "name": " White Almond Jacobin pigeon",
+        "ShortDescription": "The head ornament is a combination of three parts known as the hood, mane, and chain.",
+        "LongDescription": "The Jacobin is a breed of fancy pigeon developed over many years of selective breeding that originated in Asia.  Jacobins and other varieties of domesticated pigeons are all descendants of the rock pigeon (Columba livia). It is in the Asian feather and voice pigeon show group. The breed is known for its feathered hood over its head.\n The breed name comes from the feather arrangements on their heads (known as a muff or cowl) that look similar to the hoods that Jacobin monks wore.",
+        "price": 10000,
+        "category": "Top Rated",
+        "createdAt": "2023-02-10T22:16:31.881Z",
+        "updatedAt": "2023-02-11T22:28:02.233Z",
+        "publishedAt": "2023-02-10T22:16:56.213Z",
+        "image": {
+          "data": {
+            "id": 30,
+            "attributes": {
+              "name": "Fancy_Pigeon (12).jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1280,
+              "height": 1062,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_Fancy_Pigeon (12).jpg",
+                  "hash": "thumbnail_Fancy_Pigeon_12_b5ca5b8042",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 188,
+                  "height": 156,
+                  "size": 10.52,
+                  "url": "/uploads/thumbnail_Fancy_Pigeon_12_b5ca5b8042.jpg"
+                },
+                "small": {
+                  "name": "small_Fancy_Pigeon (12).jpg",
+                  "hash": "small_Fancy_Pigeon_12_b5ca5b8042",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 415,
+                  "size": 53.36,
+                  "url": "/uploads/small_Fancy_Pigeon_12_b5ca5b8042.jpg"
+                },
+                "medium": {
+                  "name": "medium_Fancy_Pigeon (12).jpg",
+                  "hash": "medium_Fancy_Pigeon_12_b5ca5b8042",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 622,
+                  "size": 101.84,
+                  "url": "/uploads/medium_Fancy_Pigeon_12_b5ca5b8042.jpg"
+                },
+                "large": {
+                  "name": "large_Fancy_Pigeon (12).jpg",
+                  "hash": "large_Fancy_Pigeon_12_b5ca5b8042",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 1000,
+                  "height": 830,
+                  "size": 161,
+                  "url": "/uploads/large_Fancy_Pigeon_12_b5ca5b8042.jpg"
+                }
+              },
+              "hash": "Fancy_Pigeon_12_b5ca5b8042",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 216.08,
+              "url": "/uploads/Fancy_Pigeon_12_b5ca5b8042.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-02-11T16:38:21.438Z",
+              "updatedAt": "2023-02-11T16:38:21.438Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3,
+      "attributes": {
+        "name": " Brown Almond Jacobin pigeon",
+        "ShortDescription": "The head ornament is a combination of three parts known as the hood, mane, and chain.",
+        "LongDescription": "The Jacobin is a breed of fancy pigeon developed over many years of selective breeding that originated in Asia.  Jacobins and other varieties of domesticated pigeons are all descendants of the rock pigeon (Columba livia). It is in the Asian feather and voice pigeon show group. The breed is known for its feathered hood over its head.\n The breed name comes from the feather arrangements on their heads (known as a muff or cowl) that look similar to the hoods that Jacobin monks wore.",
+        "price": 25000,
+        "category": "New Arrivals",
+        "createdAt": "2023-02-10T22:18:48.166Z",
+        "updatedAt": "2023-02-11T22:26:32.135Z",
+        "publishedAt": "2023-02-10T22:18:50.298Z",
+        "image": {
+          "data": {
+            "id": 37,
+            "attributes": {
+              "name": "Fancy_Pigeon (17).jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1280,
+              "height": 1238,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_Fancy_Pigeon (17).jpg",
+                  "hash": "thumbnail_Fancy_Pigeon_17_38a119e3b7",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 162,
+                  "height": 156,
+                  "size": 7.83,
+                  "url": "/uploads/thumbnail_Fancy_Pigeon_17_38a119e3b7.jpg"
+                },
+                "small": {
+                  "name": "small_Fancy_Pigeon (17).jpg",
+                  "hash": "small_Fancy_Pigeon_17_38a119e3b7",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 484,
+                  "size": 51.69,
+                  "url": "/uploads/small_Fancy_Pigeon_17_38a119e3b7.jpg"
+                },
+                "medium": {
+                  "name": "medium_Fancy_Pigeon (17).jpg",
+                  "hash": "medium_Fancy_Pigeon_17_38a119e3b7",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 725,
+                  "size": 99.58,
+                  "url": "/uploads/medium_Fancy_Pigeon_17_38a119e3b7.jpg"
+                },
+                "large": {
+                  "name": "large_Fancy_Pigeon (17).jpg",
+                  "hash": "large_Fancy_Pigeon_17_38a119e3b7",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 1000,
+                  "height": 967,
+                  "size": 160.68,
+                  "url": "/uploads/large_Fancy_Pigeon_17_38a119e3b7.jpg"
+                }
+              },
+              "hash": "Fancy_Pigeon_17_38a119e3b7",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 218.55,
+              "url": "/uploads/Fancy_Pigeon_17_38a119e3b7.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-02-11T16:38:22.644Z",
+              "updatedAt": "2023-02-11T16:38:22.644Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4,
+      "attributes": {
+        "name": " Yellow Arabian Trumpeter",
+        "ShortDescription": "The Arabian Trumpeter is a breed of fancy pigeon developed over many years of selective breeding.",
+        "LongDescription": "The Arabian Trumpeter is a breed of fancy pigeon developed over many years of selective breeding. Arabian Trumpeters, along with other varieties of domesticated pigeons, are all descendants from the rock pigeon (Columba livia). There are several breeds of trumpeter pigeons which are known for their vocal cooing which sounds similar to laughter or trumpeting. The breeds with this ability are collectively known as \"voice\" pigeons.",
+        "price": 3000,
+        "category": "Top Rated",
+        "createdAt": "2023-02-10T22:20:33.464Z",
+        "updatedAt": "2023-02-11T22:28:36.343Z",
+        "publishedAt": "2023-02-10T22:20:35.592Z",
+        "image": {
+          "data": {
+            "id": 26,
+            "attributes": {
+              "name": "Fancy_Pigeon (1).jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 960,
+              "height": 1280,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_Fancy_Pigeon (1).jpg",
+                  "hash": "thumbnail_Fancy_Pigeon_1_69f5fafa34",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 117,
+                  "height": 156,
+                  "size": 8.34,
+                  "url": "/uploads/thumbnail_Fancy_Pigeon_1_69f5fafa34.jpg"
+                },
+                "small": {
+                  "name": "small_Fancy_Pigeon (1).jpg",
+                  "hash": "small_Fancy_Pigeon_1_69f5fafa34",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 375,
+                  "height": 500,
+                  "size": 75.25,
+                  "url": "/uploads/small_Fancy_Pigeon_1_69f5fafa34.jpg"
+                },
+                "medium": {
+                  "name": "medium_Fancy_Pigeon (1).jpg",
+                  "hash": "medium_Fancy_Pigeon_1_69f5fafa34",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 563,
+                  "height": 750,
+                  "size": 152.3,
+                  "url": "/uploads/medium_Fancy_Pigeon_1_69f5fafa34.jpg"
+                },
+                "large": {
+                  "name": "large_Fancy_Pigeon (1).jpg",
+                  "hash": "large_Fancy_Pigeon_1_69f5fafa34",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 1000,
+                  "size": 241.31,
+                  "url": "/uploads/large_Fancy_Pigeon_1_69f5fafa34.jpg"
+                }
+              },
+              "hash": "Fancy_Pigeon_1_69f5fafa34",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 356.69,
+              "url": "/uploads/Fancy_Pigeon_1_69f5fafa34.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-02-11T16:38:20.253Z",
+              "updatedAt": "2023-02-11T16:38:20.253Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5,
+      "attributes": {
+        "name": " Bokhara Trumpeter",
+        "ShortDescription": "The Bokhara Trumpeter is a breed of fancy pigeon developed over many years of selective breeding.",
+        "LongDescription": "One of the most popular breeds of Trumpeter in the U.S., the Bokhara Trumpeter is most noticeably characterized by its lengthy full muffs (feathers on the feet) and double crest which completely obscures the bird's eyes and gives it a look reminiscent of the Old English Sheepdog. The trumpeting breeds of pigeons are so named because of their unique vocalizations which sound vaguely like low laughter.",
+        "price": 3000,
+        "category": "Best Sellers",
+        "createdAt": "2023-02-10T22:23:38.673Z",
+        "updatedAt": "2023-02-11T22:25:42.047Z",
+        "publishedAt": "2023-02-10T22:23:40.282Z",
+        "image": {
+          "data": {
+            "id": 34,
+            "attributes": {
+              "name": "Fancy_Pigeon (13).jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1280,
+              "height": 923,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_Fancy_Pigeon (13).jpg",
+                  "hash": "thumbnail_Fancy_Pigeon_13_56012fe012",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 217,
+                  "height": 156,
+                  "size": 10.86,
+                  "url": "/uploads/thumbnail_Fancy_Pigeon_13_56012fe012.jpg"
+                },
+                "small": {
+                  "name": "small_Fancy_Pigeon (13).jpg",
+                  "hash": "small_Fancy_Pigeon_13_56012fe012",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 361,
+                  "size": 51.36,
+                  "url": "/uploads/small_Fancy_Pigeon_13_56012fe012.jpg"
+                },
+                "medium": {
+                  "name": "medium_Fancy_Pigeon (13).jpg",
+                  "hash": "medium_Fancy_Pigeon_13_56012fe012",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 541,
+                  "size": 105.68,
+                  "url": "/uploads/medium_Fancy_Pigeon_13_56012fe012.jpg"
+                },
+                "large": {
+                  "name": "large_Fancy_Pigeon (13).jpg",
+                  "hash": "large_Fancy_Pigeon_13_56012fe012",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 1000,
+                  "height": 721,
+                  "size": 178.08,
+                  "url": "/uploads/large_Fancy_Pigeon_13_56012fe012.jpg"
+                }
+              },
+              "hash": "Fancy_Pigeon_13_56012fe012",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 255.05,
+              "url": "/uploads/Fancy_Pigeon_13_56012fe012.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-02-11T16:38:22.306Z",
+              "updatedAt": "2023-02-11T16:38:22.306Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 6,
+      "attributes": {
+        "name": "Nun pigeon",
+        "ShortDescription": "The Nun is given its name by the raised feathers which form a kind of hood which covers the back of the neck and head, resembling a nun.",
+        "LongDescription": "The Nun is a breed of fancy pigeons developed through many years of selective breeding. It was known as the Dutch Shell Pigeon in continental Europe. Nuns and other varieties of domesticated pigeons are all descendants of the rock pigeon (Columba livia). The Nun is one of the oldest breeds and was originally a flying tumbler before being developed for the exhibition. It is a mostly white breed, with a hood of feathers, which gives the name to the breed.",
+        "price": 700,
+        "category": "Best Sellers",
+        "createdAt": "2023-02-10T22:47:06.668Z",
+        "updatedAt": "2023-02-11T22:29:12.048Z",
+        "publishedAt": "2023-02-10T22:47:07.566Z",
+        "image": {
+          "data": {
+            "id": 27,
+            "attributes": {
+              "name": "Fancy_Pigeon (8).jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 2048,
+              "height": 932,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_Fancy_Pigeon (8).jpg",
+                  "hash": "thumbnail_Fancy_Pigeon_8_784d63b9b0",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 245,
+                  "height": 111,
+                  "size": 8.97,
+                  "url": "/uploads/thumbnail_Fancy_Pigeon_8_784d63b9b0.jpg"
+                },
+                "medium": {
+                  "name": "medium_Fancy_Pigeon (8).jpg",
+                  "hash": "medium_Fancy_Pigeon_8_784d63b9b0",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 341,
+                  "size": 65.19,
+                  "url": "/uploads/medium_Fancy_Pigeon_8_784d63b9b0.jpg"
+                },
+                "small": {
+                  "name": "small_Fancy_Pigeon (8).jpg",
+                  "hash": "small_Fancy_Pigeon_8_784d63b9b0",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 228,
+                  "size": 32.55,
+                  "url": "/uploads/small_Fancy_Pigeon_8_784d63b9b0.jpg"
+                },
+                "large": {
+                  "name": "large_Fancy_Pigeon (8).jpg",
+                  "hash": "large_Fancy_Pigeon_8_784d63b9b0",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 1000,
+                  "height": 455,
+                  "size": 105.8,
+                  "url": "/uploads/large_Fancy_Pigeon_8_784d63b9b0.jpg"
+                }
+              },
+              "hash": "Fancy_Pigeon_8_784d63b9b0",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 305.73,
+              "url": "/uploads/Fancy_Pigeon_8_784d63b9b0.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-02-11T16:38:21.259Z",
+              "updatedAt": "2023-02-11T16:38:21.259Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 7,
+      "attributes": {
+        "name": " White Bokhara Trumpeter",
+        "ShortDescription": "The Bokhara Trumpeter is a breed of fancy pigeon developed over many years of selective breeding.",
+        "LongDescription": "One of the most popular breeds of Trumpeter in the U.S., the Bokhara Trumpeter is most noticeably characterized by its lengthy full muffs (feathers on the feet) and double crest which completely obscures the bird's eyes and gives it a look reminiscent of the Old English Sheepdog. The trumpeting breeds of pigeons are so named because of their unique vocalizations which sound vaguely like low laughter.",
+        "price": 2000,
+        "category": "Best Sellers",
+        "createdAt": "2023-02-10T22:57:41.668Z",
+        "updatedAt": "2023-02-11T22:28:12.296Z",
+        "publishedAt": "2023-02-10T22:57:42.536Z",
+        "image": {
+          "data": {
+            "id": 39,
+            "attributes": {
+              "name": "Fancy_Pigeon (20).jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 960,
+              "height": 1280,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_Fancy_Pigeon (20).jpg",
+                  "hash": "thumbnail_Fancy_Pigeon_20_4d2636dbfd",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 117,
+                  "height": 156,
+                  "size": 7.45,
+                  "url": "/uploads/thumbnail_Fancy_Pigeon_20_4d2636dbfd.jpg"
+                },
+                "small": {
+                  "name": "small_Fancy_Pigeon (20).jpg",
+                  "hash": "small_Fancy_Pigeon_20_4d2636dbfd",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 375,
+                  "height": 500,
+                  "size": 51.37,
+                  "url": "/uploads/small_Fancy_Pigeon_20_4d2636dbfd.jpg"
+                },
+                "medium": {
+                  "name": "medium_Fancy_Pigeon (20).jpg",
+                  "hash": "medium_Fancy_Pigeon_20_4d2636dbfd",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 563,
+                  "height": 750,
+                  "size": 100.57,
+                  "url": "/uploads/medium_Fancy_Pigeon_20_4d2636dbfd.jpg"
+                },
+                "large": {
+                  "name": "large_Fancy_Pigeon (20).jpg",
+                  "hash": "large_Fancy_Pigeon_20_4d2636dbfd",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 1000,
+                  "size": 157.92,
+                  "url": "/uploads/large_Fancy_Pigeon_20_4d2636dbfd.jpg"
+                }
+              },
+              "hash": "Fancy_Pigeon_20_4d2636dbfd",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 231.64,
+              "url": "/uploads/Fancy_Pigeon_20_4d2636dbfd.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-02-11T16:38:23.379Z",
+              "updatedAt": "2023-02-11T16:38:23.379Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 8,
+      "attributes": {
+        "name": " Black Jacobin pigeon",
+        "ShortDescription": "The head ornament is a combination of three parts known as the hood, mane, and chain.",
+        "LongDescription": "The Jacobin is a breed of fancy pigeon developed over many years of selective breeding that originated in Asia.  Jacobins and other varieties of domesticated pigeons are all descendants of the rock pigeon (Columba livia). It is in the Asian feather and voice pigeon show group. The breed is known for its feathered hood over its head.\n The breed name comes from the feather arrangements on their heads (known as a muff or cowl) that look similar to the hoods that Jacobin monks wore.",
+        "price": 3000,
+        "category": "Top Rated",
+        "createdAt": "2023-02-10T23:00:57.739Z",
+        "updatedAt": "2023-02-11T22:26:13.339Z",
+        "publishedAt": "2023-02-10T23:00:59.323Z",
+        "image": {
+          "data": {
+            "id": 33,
+            "attributes": {
+              "name": "Fancy_Pigeon (15).jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1280,
+              "height": 960,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_Fancy_Pigeon (15).jpg",
+                  "hash": "thumbnail_Fancy_Pigeon_15_60363d87cf",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 208,
+                  "height": 156,
+                  "size": 10.24,
+                  "url": "/uploads/thumbnail_Fancy_Pigeon_15_60363d87cf.jpg"
+                },
+                "small": {
+                  "name": "small_Fancy_Pigeon (15).jpg",
+                  "hash": "small_Fancy_Pigeon_15_60363d87cf",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 375,
+                  "size": 40.19,
+                  "url": "/uploads/small_Fancy_Pigeon_15_60363d87cf.jpg"
+                },
+                "large": {
+                  "name": "large_Fancy_Pigeon (15).jpg",
+                  "hash": "large_Fancy_Pigeon_15_60363d87cf",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 1000,
+                  "height": 750,
+                  "size": 116.47,
+                  "url": "/uploads/large_Fancy_Pigeon_15_60363d87cf.jpg"
+                },
+                "medium": {
+                  "name": "medium_Fancy_Pigeon (15).jpg",
+                  "hash": "medium_Fancy_Pigeon_15_60363d87cf",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 563,
+                  "size": 74.73,
+                  "url": "/uploads/medium_Fancy_Pigeon_15_60363d87cf.jpg"
+                }
+              },
+              "hash": "Fancy_Pigeon_15_60363d87cf",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 152.95,
+              "url": "/uploads/Fancy_Pigeon_15_60363d87cf.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-02-11T16:38:22.190Z",
+              "updatedAt": "2023-02-11T16:38:22.190Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 9,
+      "attributes": {
+        "name": " Almond Jacobin pigeon",
+        "ShortDescription": "The head ornament is a combination of three parts known as the hood, mane, and chain.",
+        "LongDescription": "The Jacobin is a breed of fancy pigeon developed over many years of selective breeding that originated in Asia.  Jacobins and other varieties of domesticated pigeons are all descendants of the rock pigeon (Columba livia). It is in the Asian feather and voice pigeon show group. The breed is known for its feathered hood over its head.\n The breed name comes from the feather arrangements on their heads (known as a muff or cowl) that look similar to the hoods that Jacobin monks wore.",
+        "price": 25000,
+        "category": "New Arrivals",
+        "createdAt": "2023-02-10T23:03:26.388Z",
+        "updatedAt": "2023-02-11T22:25:52.225Z",
+        "publishedAt": "2023-02-10T23:03:27.167Z",
+        "image": {
+          "data": {
+            "id": 35,
+            "attributes": {
+              "name": "Fancy_Pigeon (16).jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1280,
+              "height": 934,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_Fancy_Pigeon (16).jpg",
+                  "hash": "thumbnail_Fancy_Pigeon_16_f31c4abed3",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 214,
+                  "height": 156,
+                  "size": 12.05,
+                  "url": "/uploads/thumbnail_Fancy_Pigeon_16_f31c4abed3.jpg"
+                },
+                "small": {
+                  "name": "small_Fancy_Pigeon (16).jpg",
+                  "hash": "small_Fancy_Pigeon_16_f31c4abed3",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 365,
+                  "size": 48.19,
+                  "url": "/uploads/small_Fancy_Pigeon_16_f31c4abed3.jpg"
+                },
+                "medium": {
+                  "name": "medium_Fancy_Pigeon (16).jpg",
+                  "hash": "medium_Fancy_Pigeon_16_f31c4abed3",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 547,
+                  "size": 90.54,
+                  "url": "/uploads/medium_Fancy_Pigeon_16_f31c4abed3.jpg"
+                },
+                "large": {
+                  "name": "large_Fancy_Pigeon (16).jpg",
+                  "hash": "large_Fancy_Pigeon_16_f31c4abed3",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 1000,
+                  "height": 730,
+                  "size": 142.24,
+                  "url": "/uploads/large_Fancy_Pigeon_16_f31c4abed3.jpg"
+                }
+              },
+              "hash": "Fancy_Pigeon_16_f31c4abed3",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 189.35,
+              "url": "/uploads/Fancy_Pigeon_16_f31c4abed3.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-02-11T16:38:22.329Z",
+              "updatedAt": "2023-02-11T16:38:22.329Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 10,
+      "attributes": {
+        "name": "Sky-blue Jacobin pigeon",
+        "ShortDescription": "The head ornament is a combination of three parts known as the hood, mane, and chain.",
+        "LongDescription": "The Jacobin is a breed of fancy pigeon developed over many years of selective breeding that originated in Asia.  Jacobins and other varieties of domesticated pigeons are all descendants of the rock pigeon (Columba livia). It is in the Asian feather and voice pigeon show group. The breed is known for its feathered hood over its head.\n The breed name comes from the feather arrangements on their heads (known as a muff or cowl) that look similar to the hoods that Jacobin monks wore.",
+        "price": 7500,
+        "category": "Top Rated",
+        "createdAt": "2023-02-10T23:06:41.182Z",
+        "updatedAt": "2023-02-11T22:29:41.773Z",
+        "publishedAt": "2023-02-10T23:29:42.107Z",
+        "image": {
+          "data": {
+            "id": 23,
+            "attributes": {
+              "name": "Fancy_Pigeon (5).jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1632,
+              "height": 1224,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_Fancy_Pigeon (5).jpg",
+                  "hash": "thumbnail_Fancy_Pigeon_5_e4ccd5b00a",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 208,
+                  "height": 156,
+                  "size": 9.44,
+                  "url": "/uploads/thumbnail_Fancy_Pigeon_5_e4ccd5b00a.jpg"
+                },
+                "small": {
+                  "name": "small_Fancy_Pigeon (5).jpg",
+                  "hash": "small_Fancy_Pigeon_5_e4ccd5b00a",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 375,
+                  "size": 38.2,
+                  "url": "/uploads/small_Fancy_Pigeon_5_e4ccd5b00a.jpg"
+                },
+                "large": {
+                  "name": "large_Fancy_Pigeon (5).jpg",
+                  "hash": "large_Fancy_Pigeon_5_e4ccd5b00a",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 1000,
+                  "height": 750,
+                  "size": 116.63,
+                  "url": "/uploads/large_Fancy_Pigeon_5_e4ccd5b00a.jpg"
+                },
+                "medium": {
+                  "name": "medium_Fancy_Pigeon (5).jpg",
+                  "hash": "medium_Fancy_Pigeon_5_e4ccd5b00a",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 563,
+                  "size": 73.6,
+                  "url": "/uploads/medium_Fancy_Pigeon_5_e4ccd5b00a.jpg"
+                }
+              },
+              "hash": "Fancy_Pigeon_5_e4ccd5b00a",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 229.97,
+              "url": "/uploads/Fancy_Pigeon_5_e4ccd5b00a.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-02-11T16:38:19.709Z",
+              "updatedAt": "2023-02-11T16:38:19.709Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 11,
+      "attributes": {
+        "name": " Black Bokhara Trumpeter",
+        "ShortDescription": "The Bokhara Trumpeter is a breed of fancy pigeon developed over many years of selective breeding.",
+        "LongDescription": "\nThe Bokhara Trumpeter is a breed of fancy pigeon developed over many years of selective breeding. Bokhara Trumpeters and other varieties of domesticated pigeons are all descendants of the rock pigeon (Columba livia). The breed is known for its long muffed (feathered) feet and double crest.\n",
+        "price": 2000,
+        "category": "Best Sellers",
+        "createdAt": "2023-02-10T23:08:54.711Z",
+        "updatedAt": "2023-02-11T22:26:02.951Z",
+        "publishedAt": "2023-02-10T23:13:12.865Z",
+        "image": {
+          "data": {
+            "id": 40,
+            "attributes": {
+              "name": "Fancy_Pigeon (21).jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 960,
+              "height": 1280,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_Fancy_Pigeon (21).jpg",
+                  "hash": "thumbnail_Fancy_Pigeon_21_8667d5f28b",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 117,
+                  "height": 156,
+                  "size": 8.91,
+                  "url": "/uploads/thumbnail_Fancy_Pigeon_21_8667d5f28b.jpg"
+                },
+                "small": {
+                  "name": "small_Fancy_Pigeon (21).jpg",
+                  "hash": "small_Fancy_Pigeon_21_8667d5f28b",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 375,
+                  "height": 500,
+                  "size": 61.9,
+                  "url": "/uploads/small_Fancy_Pigeon_21_8667d5f28b.jpg"
+                },
+                "medium": {
+                  "name": "medium_Fancy_Pigeon (21).jpg",
+                  "hash": "medium_Fancy_Pigeon_21_8667d5f28b",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 563,
+                  "height": 750,
+                  "size": 116.69,
+                  "url": "/uploads/medium_Fancy_Pigeon_21_8667d5f28b.jpg"
+                },
+                "large": {
+                  "name": "large_Fancy_Pigeon (21).jpg",
+                  "hash": "large_Fancy_Pigeon_21_8667d5f28b",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 1000,
+                  "size": 178.87,
+                  "url": "/uploads/large_Fancy_Pigeon_21_8667d5f28b.jpg"
+                }
+              },
+              "hash": "Fancy_Pigeon_21_8667d5f28b",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 256,
+              "url": "/uploads/Fancy_Pigeon_21_8667d5f28b.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-02-11T16:38:23.397Z",
+              "updatedAt": "2023-02-11T16:44:38.517Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 12,
+      "attributes": {
+        "name": " Yellow Jacobin pigeon",
+        "ShortDescription": "The head ornament is a combination of three parts known as the hood, mane, and chain.",
+        "LongDescription": "The Jacobin is a breed of fancy pigeon developed over many years of selective breeding that originated in Asia.  Jacobins and other varieties of domesticated pigeons are all descendants of the rock pigeon (Columba livia). It is in the Asian feather and voice pigeon show group. The breed is known for its feathered hood over its head.\n The breed name comes from the feather arrangements on their heads (known as a muff or cowl) that look similar to the hoods that Jacobin monks wore.",
+        "price": 3000,
+        "category": "Best Sellers",
+        "createdAt": "2023-02-10T23:10:55.759Z",
+        "updatedAt": "2023-02-11T22:28:49.191Z",
+        "publishedAt": "2023-02-10T23:13:00.902Z",
+        "image": {
+          "data": {
+            "id": 24,
+            "attributes": {
+              "name": "Fancy_Pigeon (4).jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1632,
+              "height": 1224,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_Fancy_Pigeon (4).jpg",
+                  "hash": "thumbnail_Fancy_Pigeon_4_c6887e55de",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 208,
+                  "height": 156,
+                  "size": 9.18,
+                  "url": "/uploads/thumbnail_Fancy_Pigeon_4_c6887e55de.jpg"
+                },
+                "small": {
+                  "name": "small_Fancy_Pigeon (4).jpg",
+                  "hash": "small_Fancy_Pigeon_4_c6887e55de",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 375,
+                  "size": 37.02,
+                  "url": "/uploads/small_Fancy_Pigeon_4_c6887e55de.jpg"
+                },
+                "medium": {
+                  "name": "medium_Fancy_Pigeon (4).jpg",
+                  "hash": "medium_Fancy_Pigeon_4_c6887e55de",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 563,
+                  "size": 72.68,
+                  "url": "/uploads/medium_Fancy_Pigeon_4_c6887e55de.jpg"
+                },
+                "large": {
+                  "name": "large_Fancy_Pigeon (4).jpg",
+                  "hash": "large_Fancy_Pigeon_4_c6887e55de",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 1000,
+                  "height": 750,
+                  "size": 116.89,
+                  "url": "/uploads/large_Fancy_Pigeon_4_c6887e55de.jpg"
+                }
+              },
+              "hash": "Fancy_Pigeon_4_c6887e55de",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 234.7,
+              "url": "/uploads/Fancy_Pigeon_4_c6887e55de.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-02-11T16:38:19.777Z",
+              "updatedAt": "2023-02-11T16:38:19.777Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 13,
+      "attributes": {
+        "name": "English Trumpeter",
+        "ShortDescription": "The English Trumpeter is a breed of fancy pigeon developed over many years of selective breeding.",
+        "LongDescription": "The English Trumpeter is a breed of fancy pigeon developed over many years of selective breeding. English Trumpeters and other varieties of domesticated pigeons are all descendants of the rock pigeon (Columba livia). This is one of the most popular breeds in the USA.[2] The English Trumpeter is regarded as one of the most ornamental breeds of fancy pigeons. The most distinguishing feature of this breed is the very large muffs on its feet, which often grow to sizes close to its flight feathers. Combining a tuft, crest, and large muffs on their feet, they are challenging to breed. They are bred in a number of colors which are listed under self, splash, and baldhead.",
+        "price": 33000,
+        "category": "New Arrivals",
+        "createdAt": "2023-02-10T23:12:45.884Z",
+        "updatedAt": "2023-02-11T22:29:05.344Z",
+        "publishedAt": "2023-02-10T23:12:48.585Z",
+        "image": {
+          "data": {
+            "id": 36,
+            "attributes": {
+              "name": "Fancy_Pigeon (14).jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1280,
+              "height": 960,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_Fancy_Pigeon (14).jpg",
+                  "hash": "thumbnail_Fancy_Pigeon_14_3e088a787e",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 208,
+                  "height": 156,
+                  "size": 12.08,
+                  "url": "/uploads/thumbnail_Fancy_Pigeon_14_3e088a787e.jpg"
+                },
+                "small": {
+                  "name": "small_Fancy_Pigeon (14).jpg",
+                  "hash": "small_Fancy_Pigeon_14_3e088a787e",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 375,
+                  "size": 51.58,
+                  "url": "/uploads/small_Fancy_Pigeon_14_3e088a787e.jpg"
+                },
+                "medium": {
+                  "name": "medium_Fancy_Pigeon (14).jpg",
+                  "hash": "medium_Fancy_Pigeon_14_3e088a787e",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 563,
+                  "size": 98.23,
+                  "url": "/uploads/medium_Fancy_Pigeon_14_3e088a787e.jpg"
+                },
+                "large": {
+                  "name": "large_Fancy_Pigeon (14).jpg",
+                  "hash": "large_Fancy_Pigeon_14_3e088a787e",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 1000,
+                  "height": 750,
+                  "size": 154.3,
+                  "url": "/uploads/large_Fancy_Pigeon_14_3e088a787e.jpg"
+                }
+              },
+              "hash": "Fancy_Pigeon_14_3e088a787e",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 206.04,
+              "url": "/uploads/Fancy_Pigeon_14_3e088a787e.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-02-11T16:38:22.378Z",
+              "updatedAt": "2023-02-11T16:38:22.378Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 14,
+      "attributes": {
+        "name": "Red Pouter",
+        "ShortDescription": "The English Pouter is a breed of fancy pigeon developed over many years of selective breeding.",
+        "LongDescription": "The Pouter pigeons are domesticated varieties of the rock dove, Columba livia, characterized by a very large, inflatable crop.[1] They are kept as ornamental or fancy breeds, valued for their unusual appearance. There are many varieties of pouter with little in common except for the nature of the crop. The origin of the breed group is unknown, but Pouters have been bred in Europe for at least 400 years.",
+        "price": 4000,
+        "category": "Top Rated",
+        "createdAt": "2023-02-10T23:18:03.499Z",
+        "updatedAt": "2023-02-11T22:29:23.625Z",
+        "publishedAt": "2023-02-10T23:18:04.488Z",
+        "image": {
+          "data": {
+            "id": 32,
+            "attributes": {
+              "name": "Fancy_Pigeon (7).jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 2048,
+              "height": 932,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_Fancy_Pigeon (7).jpg",
+                  "hash": "thumbnail_Fancy_Pigeon_7_97fc5e7d44",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 245,
+                  "height": 111,
+                  "size": 10.21,
+                  "url": "/uploads/thumbnail_Fancy_Pigeon_7_97fc5e7d44.jpg"
+                },
+                "small": {
+                  "name": "small_Fancy_Pigeon (7).jpg",
+                  "hash": "small_Fancy_Pigeon_7_97fc5e7d44",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 228,
+                  "size": 43.13,
+                  "url": "/uploads/small_Fancy_Pigeon_7_97fc5e7d44.jpg"
+                },
+                "medium": {
+                  "name": "medium_Fancy_Pigeon (7).jpg",
+                  "hash": "medium_Fancy_Pigeon_7_97fc5e7d44",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 341,
+                  "size": 97.67,
+                  "url": "/uploads/medium_Fancy_Pigeon_7_97fc5e7d44.jpg"
+                },
+                "large": {
+                  "name": "large_Fancy_Pigeon (7).jpg",
+                  "hash": "large_Fancy_Pigeon_7_97fc5e7d44",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 1000,
+                  "height": 455,
+                  "size": 174.47,
+                  "url": "/uploads/large_Fancy_Pigeon_7_97fc5e7d44.jpg"
+                }
+              },
+              "hash": "Fancy_Pigeon_7_97fc5e7d44",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 623.76,
+              "url": "/uploads/Fancy_Pigeon_7_97fc5e7d44.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-02-11T16:38:22.065Z",
+              "updatedAt": "2023-02-11T16:38:22.065Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 15,
+      "attributes": {
+        "name": " Redish Almond Jacobin pigeon",
+        "ShortDescription": "The head ornament is a combination of three parts known as the hood, mane, and chain.",
+        "LongDescription": "The Jacobin is a breed of fancy pigeon developed over many years of selective breeding that originated in Asia.  Jacobins and other varieties of domesticated pigeons are all descendants of the rock pigeon (Columba livia). It is in the Asian feather and voice pigeon show group. The breed is known for its feathered hood over its head.\n The breed name comes from the feather arrangements on their heads (known as a muff or cowl) that look similar to the hoods that Jacobin monks wore.",
+        "price": 27000,
+        "category": "New Arrivals",
+        "createdAt": "2023-02-10T23:23:15.153Z",
+        "updatedAt": "2023-02-11T22:27:53.162Z",
+        "publishedAt": "2023-02-10T23:23:17.731Z",
+        "image": {
+          "data": {
+            "id": 38,
+            "attributes": {
+              "name": "Fancy_Pigeon (18).jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1280,
+              "height": 960,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_Fancy_Pigeon (18).jpg",
+                  "hash": "thumbnail_Fancy_Pigeon_18_c549119b80",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 208,
+                  "height": 156,
+                  "size": 10.7,
+                  "url": "/uploads/thumbnail_Fancy_Pigeon_18_c549119b80.jpg"
+                },
+                "small": {
+                  "name": "small_Fancy_Pigeon (18).jpg",
+                  "hash": "small_Fancy_Pigeon_18_c549119b80",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 375,
+                  "size": 54.3,
+                  "url": "/uploads/small_Fancy_Pigeon_18_c549119b80.jpg"
+                },
+                "medium": {
+                  "name": "medium_Fancy_Pigeon (18).jpg",
+                  "hash": "medium_Fancy_Pigeon_18_c549119b80",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 563,
+                  "size": 110.54,
+                  "url": "/uploads/medium_Fancy_Pigeon_18_c549119b80.jpg"
+                },
+                "large": {
+                  "name": "large_Fancy_Pigeon (18).jpg",
+                  "hash": "large_Fancy_Pigeon_18_c549119b80",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 1000,
+                  "height": 750,
+                  "size": 179.25,
+                  "url": "/uploads/large_Fancy_Pigeon_18_c549119b80.jpg"
+                }
+              },
+              "hash": "Fancy_Pigeon_18_c549119b80",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 244.25,
+              "url": "/uploads/Fancy_Pigeon_18_c549119b80.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-02-11T16:38:23.084Z",
+              "updatedAt": "2023-02-11T16:38:23.084Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 16,
+      "attributes": {
+        "name": " White-Red Jacobin pigeon",
+        "ShortDescription": "The head ornament is a combination of three parts known as the hood, mane, and chain.",
+        "LongDescription": "The Jacobin is a breed of fancy pigeon developed over many years of selective breeding that originated in Asia.  Jacobins and other varieties of domesticated pigeons are all descendants of the rock pigeon (Columba livia). It is in the Asian feather and voice pigeon show group. The breed is known for its feathered hood over its head.\n The breed name comes from the feather arrangements on their heads (known as a muff or cowl) that look similar to the hoods that Jacobin monks wore.",
+        "price": 5000,
+        "category": "Best Sellers",
+        "createdAt": "2023-02-10T23:25:43.653Z",
+        "updatedAt": "2023-02-11T22:28:28.020Z",
+        "publishedAt": "2023-02-10T23:25:44.890Z",
+        "image": {
+          "data": {
+            "id": 25,
+            "attributes": {
+              "name": "Fancy_Pigeon (6).jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1632,
+              "height": 1224,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_Fancy_Pigeon (6).jpg",
+                  "hash": "thumbnail_Fancy_Pigeon_6_1d83c714ef",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 208,
+                  "height": 156,
+                  "size": 8.58,
+                  "url": "/uploads/thumbnail_Fancy_Pigeon_6_1d83c714ef.jpg"
+                },
+                "small": {
+                  "name": "small_Fancy_Pigeon (6).jpg",
+                  "hash": "small_Fancy_Pigeon_6_1d83c714ef",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 375,
+                  "size": 36.69,
+                  "url": "/uploads/small_Fancy_Pigeon_6_1d83c714ef.jpg"
+                },
+                "large": {
+                  "name": "large_Fancy_Pigeon (6).jpg",
+                  "hash": "large_Fancy_Pigeon_6_1d83c714ef",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 1000,
+                  "height": 750,
+                  "size": 116.62,
+                  "url": "/uploads/large_Fancy_Pigeon_6_1d83c714ef.jpg"
+                },
+                "medium": {
+                  "name": "medium_Fancy_Pigeon (6).jpg",
+                  "hash": "medium_Fancy_Pigeon_6_1d83c714ef",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 563,
+                  "size": 72.52,
+                  "url": "/uploads/medium_Fancy_Pigeon_6_1d83c714ef.jpg"
+                }
+              },
+              "hash": "Fancy_Pigeon_6_1d83c714ef",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 234.19,
+              "url": "/uploads/Fancy_Pigeon_6_1d83c714ef.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-02-11T16:38:19.801Z",
+              "updatedAt": "2023-02-11T16:38:19.801Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 17,
+      "attributes": {
+        "name": " Red Jacobin pigeon",
+        "ShortDescription": "The head ornament is a combination of three parts known as the hood, mane, and chain.",
+        "LongDescription": "The Jacobin is a breed of fancy pigeon developed over many years of selective breeding that originated in Asia.  Jacobins and other varieties of domesticated pigeons are all descendants of the rock pigeon (Columba livia). It is in the Asian feather and voice pigeon show group. The breed is known for its feathered hood over its head.\n The breed name comes from the feather arrangements on their heads (known as a muff or cowl) that look similar to the hoods that Jacobin monks wore.",
+        "price": 5000,
+        "category": "New Arrivals",
+        "createdAt": "2023-02-10T23:28:52.774Z",
+        "updatedAt": "2023-02-11T22:27:33.406Z",
+        "publishedAt": "2023-02-10T23:29:02.397Z",
+        "image": {
+          "data": {
+            "id": 22,
+            "attributes": {
+              "name": "Fancy_Pigeon (2).jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 960,
+              "height": 720,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_Fancy_Pigeon (2).jpg",
+                  "hash": "thumbnail_Fancy_Pigeon_2_2397ccb99c",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 208,
+                  "height": 156,
+                  "size": 11.86,
+                  "url": "/uploads/thumbnail_Fancy_Pigeon_2_2397ccb99c.jpg"
+                },
+                "small": {
+                  "name": "small_Fancy_Pigeon (2).jpg",
+                  "hash": "small_Fancy_Pigeon_2_2397ccb99c",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 375,
+                  "size": 47.03,
+                  "url": "/uploads/small_Fancy_Pigeon_2_2397ccb99c.jpg"
+                },
+                "medium": {
+                  "name": "medium_Fancy_Pigeon (2).jpg",
+                  "hash": "medium_Fancy_Pigeon_2_2397ccb99c",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 563,
+                  "size": 85.46,
+                  "url": "/uploads/medium_Fancy_Pigeon_2_2397ccb99c.jpg"
+                }
+              },
+              "hash": "Fancy_Pigeon_2_2397ccb99c",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 86.3,
+              "url": "/uploads/Fancy_Pigeon_2_2397ccb99c.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-02-11T16:38:19.640Z",
+              "updatedAt": "2023-02-11T16:38:19.640Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 18,
+      "attributes": {
+        "name": " Red Fantail pigeon",
+        "ShortDescription": "Fantails are often used by pigeon flyers in the training of racing pigeons and Tipplers. ",
+        "LongDescription": "The Fantail is a popular breed of fancy pigeon.[1] It is characterized by a fan-shaped tail composed of 30 to 40 feathers, abnormally more than most members of the dove and pigeon family, which usually have 12 to 14 tail feathers.[2] The breed is thought to have originated in Pakistan, India, China, Japan, or Spain. There are several subvarieties, such as the English Fantail, the Indian Fantail, and the Thai Fantail. Charles Darwin used it as one of the examples in the first chapter of his book On the Origin of Species. He believed it was a descendant of the rock dove (Columba livia).",
+        "price": 300,
+        "category": "Best Sellers",
+        "createdAt": "2023-02-10T23:36:00.618Z",
+        "updatedAt": "2023-02-11T22:26:54.074Z",
+        "publishedAt": "2023-02-10T23:36:01.849Z",
+        "image": {
+          "data": {
+            "id": 29,
+            "attributes": {
+              "name": "Fancy_Pigeon (9).jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 2048,
+              "height": 932,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_Fancy_Pigeon (9).jpg",
+                  "hash": "thumbnail_Fancy_Pigeon_9_158bd6917e",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 245,
+                  "height": 111,
+                  "size": 10.5,
+                  "url": "/uploads/thumbnail_Fancy_Pigeon_9_158bd6917e.jpg"
+                },
+                "small": {
+                  "name": "small_Fancy_Pigeon (9).jpg",
+                  "hash": "small_Fancy_Pigeon_9_158bd6917e",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 228,
+                  "size": 35.85,
+                  "url": "/uploads/small_Fancy_Pigeon_9_158bd6917e.jpg"
+                },
+                "large": {
+                  "name": "large_Fancy_Pigeon (9).jpg",
+                  "hash": "large_Fancy_Pigeon_9_158bd6917e",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 1000,
+                  "height": 455,
+                  "size": 111.44,
+                  "url": "/uploads/large_Fancy_Pigeon_9_158bd6917e.jpg"
+                },
+                "medium": {
+                  "name": "medium_Fancy_Pigeon (9).jpg",
+                  "hash": "medium_Fancy_Pigeon_9_158bd6917e",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 341,
+                  "size": 69.95,
+                  "url": "/uploads/medium_Fancy_Pigeon_9_158bd6917e.jpg"
+                }
+              },
+              "hash": "Fancy_Pigeon_9_158bd6917e",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 304.53,
+              "url": "/uploads/Fancy_Pigeon_9_158bd6917e.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-02-11T16:38:21.338Z",
+              "updatedAt": "2023-02-11T16:38:21.338Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 19,
+      "attributes": {
+        "name": " Red-dot Jacobin pigeon",
+        "ShortDescription": "The head ornament is a combination of three parts known as the hood, mane, and chain.",
+        "LongDescription": "The Jacobin is a breed of fancy pigeon developed over many years of selective breeding that originated in Asia.  Jacobins and other varieties of domesticated pigeons are all descendants of the rock pigeon (Columba livia). It is in the Asian feather and voice pigeon show group. The breed is known for its feathered hood over its head.\n The breed name comes from the feather arrangements on their heads (known as a muff or cowl) that look similar to the hoods that Jacobin monks wore.",
+        "price": 5000,
+        "category": "Top Rated",
+        "createdAt": "2023-02-12T02:00:50.396Z",
+        "updatedAt": "2023-02-12T02:29:50.131Z",
+        "publishedAt": "2023-02-12T02:01:11.328Z",
+        "image": {
+          "data": {
+            "id": 42,
+            "attributes": {
+              "name": "Fancy_Pigeon_new (3).jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 960,
+              "height": 720,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_Fancy_Pigeon_new (3).jpg",
+                  "hash": "thumbnail_Fancy_Pigeon_new_3_f04b78312b",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 208,
+                  "height": 156,
+                  "size": 12.84,
+                  "url": "/uploads/thumbnail_Fancy_Pigeon_new_3_f04b78312b.jpg"
+                },
+                "small": {
+                  "name": "small_Fancy_Pigeon_new (3).jpg",
+                  "hash": "small_Fancy_Pigeon_new_3_f04b78312b",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 375,
+                  "size": 54.95,
+                  "url": "/uploads/small_Fancy_Pigeon_new_3_f04b78312b.jpg"
+                },
+                "medium": {
+                  "name": "medium_Fancy_Pigeon_new (3).jpg",
+                  "hash": "medium_Fancy_Pigeon_new_3_f04b78312b",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 563,
+                  "size": 102.06,
+                  "url": "/uploads/medium_Fancy_Pigeon_new_3_f04b78312b.jpg"
+                }
+              },
+              "hash": "Fancy_Pigeon_new_3_f04b78312b",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 105.51,
+              "url": "/uploads/Fancy_Pigeon_new_3_f04b78312b.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-02-12T01:58:37.417Z",
+              "updatedAt": "2023-02-12T01:58:37.417Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 20,
+      "attributes": {
+        "name": "White Pouter",
+        "ShortDescription": "The English Pouter is a breed of fancy pigeon developed over many years of selective breeding.",
+        "LongDescription": "The Pouter pigeons are domesticated varieties of the rock dove, Columba livia, characterized by a very large, inflatable crop.[1] They are kept as ornamental or fancy breeds, valued for their unusual appearance. There are many varieties of pouter with little in common except for the nature of the crop. The origin of the breed group is unknown, but Pouters have been bred in Europe for at least 400 years.",
+        "price": 4000,
+        "category": "Best Sellers",
+        "createdAt": "2023-02-12T02:03:08.870Z",
+        "updatedAt": "2023-02-12T02:03:09.908Z",
+        "publishedAt": "2023-02-12T02:03:09.905Z",
+        "image": {
+          "data": {
+            "id": 44,
+            "attributes": {
+              "name": "Fancy_Pigeon_new (2).jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1525,
+              "height": 932,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_Fancy_Pigeon_new (2).jpg",
+                  "hash": "thumbnail_Fancy_Pigeon_new_2_fb32c3e40e",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 245,
+                  "height": 150,
+                  "size": 13.21,
+                  "url": "/uploads/thumbnail_Fancy_Pigeon_new_2_fb32c3e40e.jpg"
+                },
+                "small": {
+                  "name": "small_Fancy_Pigeon_new (2).jpg",
+                  "hash": "small_Fancy_Pigeon_new_2_fb32c3e40e",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 306,
+                  "size": 48.61,
+                  "url": "/uploads/small_Fancy_Pigeon_new_2_fb32c3e40e.jpg"
+                },
+                "medium": {
+                  "name": "medium_Fancy_Pigeon_new (2).jpg",
+                  "hash": "medium_Fancy_Pigeon_new_2_fb32c3e40e",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 458,
+                  "size": 102.87,
+                  "url": "/uploads/medium_Fancy_Pigeon_new_2_fb32c3e40e.jpg"
+                },
+                "large": {
+                  "name": "large_Fancy_Pigeon_new (2).jpg",
+                  "hash": "large_Fancy_Pigeon_new_2_fb32c3e40e",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 1000,
+                  "height": 611,
+                  "size": 173.74,
+                  "url": "/uploads/large_Fancy_Pigeon_new_2_fb32c3e40e.jpg"
+                }
+              },
+              "hash": "Fancy_Pigeon_new_2_fb32c3e40e",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 319.58,
+              "url": "/uploads/Fancy_Pigeon_new_2_fb32c3e40e.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-02-12T01:58:37.550Z",
+              "updatedAt": "2023-02-12T01:58:37.550Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 21,
+      "attributes": {
+        "name": " Radish Jacobin pigeon",
+        "ShortDescription": "The head ornament is a combination of three parts known as the hood, mane, and chain.",
+        "LongDescription": "The Jacobin is a breed of fancy pigeon developed over many years of selective breeding that originated in Asia.  Jacobins and other varieties of domesticated pigeons are all descendants of the rock pigeon (Columba livia). It is in the Asian feather and voice pigeon show group. The breed is known for its feathered hood over its head.\n The breed name comes from the feather arrangements on their heads (known as a muff or cowl) that look similar to the hoods that Jacobin monks wore.",
+        "price": 4000,
+        "category": "Top Rated",
+        "createdAt": "2023-02-12T02:04:58.900Z",
+        "updatedAt": "2023-02-12T02:05:01.163Z",
+        "publishedAt": "2023-02-12T02:05:01.159Z",
+        "image": {
+          "data": {
+            "id": 43,
+            "attributes": {
+              "name": "Fancy_Pigeon_new (1).jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 960,
+              "height": 720,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_Fancy_Pigeon_new (1).jpg",
+                  "hash": "thumbnail_Fancy_Pigeon_new_1_f4e05fde34",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 208,
+                  "height": 156,
+                  "size": 13.72,
+                  "url": "/uploads/thumbnail_Fancy_Pigeon_new_1_f4e05fde34.jpg"
+                },
+                "small": {
+                  "name": "small_Fancy_Pigeon_new (1).jpg",
+                  "hash": "small_Fancy_Pigeon_new_1_f4e05fde34",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 375,
+                  "size": 65.11,
+                  "url": "/uploads/small_Fancy_Pigeon_new_1_f4e05fde34.jpg"
+                },
+                "medium": {
+                  "name": "medium_Fancy_Pigeon_new (1).jpg",
+                  "hash": "medium_Fancy_Pigeon_new_1_f4e05fde34",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 563,
+                  "size": 126.27,
+                  "url": "/uploads/medium_Fancy_Pigeon_new_1_f4e05fde34.jpg"
+                }
+              },
+              "hash": "Fancy_Pigeon_new_1_f4e05fde34",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 133.94,
+              "url": "/uploads/Fancy_Pigeon_new_1_f4e05fde34.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-02-12T01:58:37.450Z",
+              "updatedAt": "2023-02-12T01:58:37.450Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 22,
+      "attributes": {
+        "name": " White-Red Fantail pigeon",
+        "ShortDescription": "Fantails are often used by pigeon flyers in the training of racing pigeons and Tipplers. ",
+        "LongDescription": "The Fantail is a popular breed of fancy pigeon.[1] It is characterized by a fan-shaped tail composed of 30 to 40 feathers, abnormally more than most members of the dove and pigeon family, which usually have 12 to 14 tail feathers.[2] The breed is thought to have originated in Pakistan, India, China, Japan, or Spain. There are several subvarieties, such as the English Fantail, the Indian Fantail, and the Thai Fantail. Charles Darwin used it as one of the examples in the first chapter of his book On the Origin of Species. He believed it was a descendant of the rock dove (Columba livia).",
+        "price": 1000,
+        "category": "New Arrivals",
+        "createdAt": "2023-02-12T02:23:55.386Z",
+        "updatedAt": "2023-02-12T02:23:56.656Z",
+        "publishedAt": "2023-02-12T02:23:56.653Z",
+        "image": {
+          "data": {
+            "id": 54,
+            "attributes": {
+              "name": "IMG_3322.JPG",
+              "alternativeText": null,
+              "caption": null,
+              "width": 2048,
+              "height": 932,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_IMG_3322.JPG",
+                  "hash": "thumbnail_IMG_3322_5f7ef29051",
+                  "ext": ".JPG",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 245,
+                  "height": 111,
+                  "size": 8.33,
+                  "url": "/uploads/thumbnail_IMG_3322_5f7ef29051.JPG"
+                },
+                "small": {
+                  "name": "small_IMG_3322.JPG",
+                  "hash": "small_IMG_3322_5f7ef29051",
+                  "ext": ".JPG",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 228,
+                  "size": 27.93,
+                  "url": "/uploads/small_IMG_3322_5f7ef29051.JPG"
+                },
+                "medium": {
+                  "name": "medium_IMG_3322.JPG",
+                  "hash": "medium_IMG_3322_5f7ef29051",
+                  "ext": ".JPG",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 341,
+                  "size": 53.15,
+                  "url": "/uploads/medium_IMG_3322_5f7ef29051.JPG"
+                },
+                "large": {
+                  "name": "large_IMG_3322.JPG",
+                  "hash": "large_IMG_3322_5f7ef29051",
+                  "ext": ".JPG",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 1000,
+                  "height": 455,
+                  "size": 83.16,
+                  "url": "/uploads/large_IMG_3322_5f7ef29051.JPG"
+                }
+              },
+              "hash": "IMG_3322_5f7ef29051",
+              "ext": ".JPG",
+              "mime": "image/jpeg",
+              "size": 236.9,
+              "url": "/uploads/IMG_3322_5f7ef29051.JPG",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-02-12T02:22:31.366Z",
+              "updatedAt": "2023-02-12T02:22:31.366Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 23,
+      "attributes": {
+        "name": " Young Almond Jacobin pigeon",
+        "ShortDescription": "The head ornament is a combination of three parts known as the hood, mane, and chain.",
+        "LongDescription": "The Jacobin is a breed of fancy pigeon developed over many years of selective breeding that originated in Asia.  Jacobins and other varieties of domesticated pigeons are all descendants of the rock pigeon (Columba livia). It is in the Asian feather and voice pigeon show group. The breed is known for its feathered hood over its head.\n The breed name comes from the feather arrangements on their heads (known as a muff or cowl) that look similar to the hoods that Jacobin monks wore.",
+        "price": 25000,
+        "category": "New Arrivals",
+        "createdAt": "2023-02-12T02:25:32.328Z",
+        "updatedAt": "2023-02-12T02:25:33.421Z",
+        "publishedAt": "2023-02-12T02:25:33.418Z",
+        "image": {
+          "data": {
+            "id": 50,
+            "attributes": {
+              "name": "IMG_3320.JPG",
+              "alternativeText": null,
+              "caption": null,
+              "width": 2048,
+              "height": 932,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_IMG_3320.JPG",
+                  "hash": "thumbnail_IMG_3320_6d43ab601f",
+                  "ext": ".JPG",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 245,
+                  "height": 111,
+                  "size": 8.67,
+                  "url": "/uploads/thumbnail_IMG_3320_6d43ab601f.JPG"
+                },
+                "medium": {
+                  "name": "medium_IMG_3320.JPG",
+                  "hash": "medium_IMG_3320_6d43ab601f",
+                  "ext": ".JPG",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 341,
+                  "size": 62.06,
+                  "url": "/uploads/medium_IMG_3320_6d43ab601f.JPG"
+                },
+                "small": {
+                  "name": "small_IMG_3320.JPG",
+                  "hash": "small_IMG_3320_6d43ab601f",
+                  "ext": ".JPG",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 228,
+                  "size": 31.51,
+                  "url": "/uploads/small_IMG_3320_6d43ab601f.JPG"
+                },
+                "large": {
+                  "name": "large_IMG_3320.JPG",
+                  "hash": "large_IMG_3320_6d43ab601f",
+                  "ext": ".JPG",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 1000,
+                  "height": 455,
+                  "size": 98.91,
+                  "url": "/uploads/large_IMG_3320_6d43ab601f.JPG"
+                }
+              },
+              "hash": "IMG_3320_6d43ab601f",
+              "ext": ".JPG",
+              "mime": "image/jpeg",
+              "size": 292.36,
+              "url": "/uploads/IMG_3320_6d43ab601f.JPG",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-02-12T02:22:31.019Z",
+              "updatedAt": "2023-02-12T02:22:31.019Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 24,
+      "attributes": {
+        "name": " White-Almond Jacobin pigeon",
+        "ShortDescription": "The head ornament is a combination of three parts known as the hood, mane, and chain.",
+        "LongDescription": "The Jacobin is a breed of fancy pigeon developed over many years of selective breeding that originated in Asia.  Jacobins and other varieties of domesticated pigeons are all descendants of the rock pigeon (Columba livia). It is in the Asian feather and voice pigeon show group. The breed is known for its feathered hood over its head.\n The breed name comes from the feather arrangements on their heads (known as a muff or cowl) that look similar to the hoods that Jacobin monks wore.",
+        "price": 25000,
+        "category": "New Arrivals",
+        "createdAt": "2023-02-12T02:28:21.562Z",
+        "updatedAt": "2023-02-12T02:28:25.092Z",
+        "publishedAt": "2023-02-12T02:28:25.088Z",
+        "image": {
+          "data": {
+            "id": 57,
+            "attributes": {
+              "name": "IMG_3327.JPG",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1488,
+              "height": 1984,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_IMG_3327.JPG",
+                  "hash": "thumbnail_IMG_3327_6516981eb1",
+                  "ext": ".JPG",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 117,
+                  "height": 156,
+                  "size": 7.01,
+                  "url": "/uploads/thumbnail_IMG_3327_6516981eb1.JPG"
+                },
+                "small": {
+                  "name": "small_IMG_3327.JPG",
+                  "hash": "small_IMG_3327_6516981eb1",
+                  "ext": ".JPG",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 375,
+                  "height": 500,
+                  "size": 62.63,
+                  "url": "/uploads/small_IMG_3327_6516981eb1.JPG"
+                },
+                "large": {
+                  "name": "large_IMG_3327.JPG",
+                  "hash": "large_IMG_3327_6516981eb1",
+                  "ext": ".JPG",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 1000,
+                  "size": 236.7,
+                  "url": "/uploads/large_IMG_3327_6516981eb1.JPG"
+                },
+                "medium": {
+                  "name": "medium_IMG_3327.JPG",
+                  "hash": "medium_IMG_3327_6516981eb1",
+                  "ext": ".JPG",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 563,
+                  "height": 750,
+                  "size": 138.07,
+                  "url": "/uploads/medium_IMG_3327_6516981eb1.JPG"
+                }
+              },
+              "hash": "IMG_3327_6516981eb1",
+              "ext": ".JPG",
+              "mime": "image/jpeg",
+              "size": 772.06,
+              "url": "/uploads/IMG_3327_6516981eb1.JPG",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-02-12T02:22:31.684Z",
+              "updatedAt": "2023-02-12T02:22:31.684Z"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 24
+    }
+  }
+}
